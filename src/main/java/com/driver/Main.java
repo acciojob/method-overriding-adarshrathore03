@@ -7,6 +7,7 @@ public class Main {
 
        // System.out.println(obj.meth());
         obj.meth();
+        obj.meth();
 
     }
         public static class A{
